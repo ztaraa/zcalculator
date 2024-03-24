@@ -5,7 +5,7 @@
 The zCalculator is a simple calculator app made with VueJS + Vite. It allows you to perform basic arithmetic operations.
 ### Preview
 
-You can preview the zCalculator app by clicking [here](https://example.com).
+You can preview the zCalculator app by clicking [here](zcalculator-tau.vercel.app).
 ### Usage
 
 1. Enter numbers: Click on the number buttons (1-9) to enter the desired numbers.

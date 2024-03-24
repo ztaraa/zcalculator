@@ -3,7 +3,9 @@
 ## How zCalculator Works
 
 The zCalculator is a simple calculator app made with VueJS + Vite. It allows you to perform basic arithmetic operations.
+### Preview
 
+You can preview the zCalculator app by clicking [here](https://example.com).
 ### Usage
 
 1. Enter numbers: Click on the number buttons (1-9) to enter the desired numbers.
